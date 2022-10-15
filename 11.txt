@@ -1,0 +1,7 @@
+git clone <HTTP Link>
+
+(Working directory - Staging area - local repo - remote repo)
+git status
+git add <file> 
+git commit -m "Message"
+git push origin <Branch>
